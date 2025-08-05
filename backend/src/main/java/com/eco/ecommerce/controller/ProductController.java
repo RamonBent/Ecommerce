@@ -1,7 +1,7 @@
 package com.eco.ecommerce.controller;
 
 import com.eco.ecommerce.dto.response.ProductResponse;
-import com.eco.ecommerce.dto.resquest.ProductRequest;
+import com.eco.ecommerce.dto.request.ProductRequest;
 import com.eco.ecommerce.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

@@ -1,7 +1,7 @@
 package com.eco.ecommerce.dto.mapper;
 
 import com.eco.ecommerce.dto.response.ProductResponse;
-import com.eco.ecommerce.dto.resquest.ProductRequest;
+import com.eco.ecommerce.dto.request.ProductRequest;
 import com.eco.ecommerce.model.Product;
 import com.eco.ecommerce.repository.CategoryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
