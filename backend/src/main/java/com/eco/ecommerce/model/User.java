@@ -15,7 +15,7 @@ public class User {
     private String name;
     private String email;
     private String password;
-    private String role; // CLIENT, ADMIN
+    private String role;
 
     @OneToMany(mappedBy = "user")
     private List<Order> orders;
